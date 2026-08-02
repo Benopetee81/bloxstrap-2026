@@ -52,7 +52,6 @@ Once installed, Bloxstrap is added to your Start Menu, where you can access the 
 
 Bloxstrap uses the [WPF UI](https://github.com/Benopetee81/bloxstrap-2026/releases/tag/release) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs](/////////).
 
-
 [shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
 [shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/bloxstraplabs/bloxstrap/ci-release.yml?branch=main&label=builds
 [shield-repo-releases]: https://img.shields.io/github/downloads/bloxstraplabs/bloxstrap/latest/total?color=981bfe
